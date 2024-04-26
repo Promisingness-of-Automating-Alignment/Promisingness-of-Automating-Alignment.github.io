@@ -45,3 +45,13 @@ Researched by Severin Field and Vassil Tashev
 Researched by Alfie Lamerton
 * [A review of In-Context Learning Hypotheses for Automated AI](https://www.lesswrong.com/posts/GPcwP8pgyPFPwvi2h/a-review-of-in-context-learning-hypotheses-for-automated-ai)
 #### Summary
+
+## Sparse Autoencoders
+Researched by Alfie Lamerton
+* [A Review of Automated Approaches for Sparse Autoencoders (SAEs) (Google Doc draft)](https://docs.google.com/document/d/1Y9F8j4h39C6LUC25XvjzAcZLu1RH5yuPJ9BL8DolVhM/edit)
+#### Summary
+This draft document provides an overview of recent progress in using Sparse Autoencoders (SAEs) for mechanistic interpretability of AI systems, with a focus on the promisingness of automating various parts of the SAE workflow. It discusses key areas of automation, including finding new features, increasing feature accuracy, the reconstruction-sparsity tradeoff, better metrics to quantify and evaluate features and approaches to identifying/classifying feature families.
+
+While SAE researchers have made rapid, iterative progress in discovering new methods to find and evaluate features in models within the past year, the scalability of these methods to larger models remains uncertain,* and several SAE researchers have emphasised the inherent limitations of current benchmarks. Additionally, the pace of AI capabilities progress poses a challenge for mechanistic interpretability research to keep up with increasingly complex frontier models.
+
+*We note Google Deepmind’s very promising recent paper, which successfully applies SAEs to 7B parameter model. Due to multiple highly significant SAE/mech interp research papers being published within the past week, this section is not up-to-date as of end April 2024.
