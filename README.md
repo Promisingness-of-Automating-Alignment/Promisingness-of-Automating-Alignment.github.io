@@ -39,7 +39,7 @@ Researched by Severin Field and Vassil Tashev
 * [A review of weak-to-strong generalization literature](https://www.lesswrong.com/posts/ELbGqXiLbRe6zSkTu/a-review-of-weak-to-strong-generalization-ai-safety-camp)
 * [Paper review: “The Unreasonable Effectiveness of Easy Training Data for Hard Tasks”](https://www.lesswrong.com/posts/Wd9vzwqcYuEokJYCH/paper-review-the-unreasonable-effectiveness-of-easy-training)
 #### Summary:
-<><
+OpenAI’s super alignment agenda is to create automated safety researchers. At the end of 2023, OpenAI published “weak to strong generalization” which attempted to answer how we can create a setting to study superhuman AI. Reframing the alignment problem this way makes progress tractable creates a setting to empirically study “super alignment” before experiments can be done on a superhuman AI. We review their findings, a number of similar papers, and the implications for automated safety R&D.
 
 ## In-context Learning
 Researched by Alfie Lamerton
@@ -55,3 +55,18 @@ This draft document provides an overview of recent progress in using Sparse Auto
 While SAE researchers have made rapid, iterative progress in discovering new methods to find and evaluate features in models within the past year, the scalability of these methods to larger models remains uncertain,* and several SAE researchers have emphasised the inherent limitations of current benchmarks. Additionally, the pace of AI capabilities progress poses a challenge for mechanistic interpretability research to keep up with increasingly complex frontier models.
 
 *We note Google Deepmind’s very promising recent paper, which successfully applies SAEs to 7B parameter model. Due to multiple highly significant SAE/mech interp research papers being published within the past week, this section is not up-to-date as of end April 2024.
+
+## Theoretical Chain of Thought
+Researched by Severin Field
+* [lesswrong post coming soon]()\
+
+#### Summary 
+“One of the main limitations is that the architecture does not allow for an ‘inner monologue’ or scratchpad beyond it’s internal representation, that could enable it to perform multi-step computations or store intermediate results” - Sebastian Bubeck, 2023
+
+Chain of thought not only improves the performance of LLM’s, but chain of thought improves the [expressivity of transformers](https://arxiv.org/abs/2310.07923); problems can be solved with chain of thought that could not be solved in a single forward pass. In principle, an autoregressive transformer is turing-complete. [Auto-Regressive next token predictors are universal learners](https://arxiv.org/abs/2309.06979) 
+
+We investigate the literature with the following in mind: 
+* What will the first meaningfully useful automated safety researcher look like?
+* Does chain of thought help with learning? With new knowledge creation?
+* What are the properties of data that allow for chain of thought to work?
+* Is a large language model’s chain of thought faithful? How interpretable is chain of thought?
