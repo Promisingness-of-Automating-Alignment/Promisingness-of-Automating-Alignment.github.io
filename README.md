@@ -88,4 +88,4 @@ The Governace literature used are the current AI regulatory trends, existing leg
 * Could AI Governance safety proposals interfere in with the implementation of an AI alignment researcher? 
 * Does this approach clash with current AI governance principles such as human oversight?
 
-The desired output of the project is a lesswrong or EA post raising and anticipating questions and considerations for automated alignment researchers and policy makers.
+The desired output of the project is a lesswrong or EA post raising and anticipating questions and considerations for automated alignment researchers and policymakers.
