@@ -72,3 +72,20 @@ We investigate the literature with the following in mind:
 * Does chain of thought help with learning? With new knowledge creation?
 * What are the properties of data that allow for chain of thought to work?
 * Is a large language model’s chain of thought faithful? How interpretable is chain of thought?
+
+## Automated Alignment considerations from a Governance perspective
+Researched by Marcel Mir
+* 
+#### Summary
+Could current trends in AI policies impact the automated alignment approach? 
+
+Regulatory bodies and international organisations are starting to develop policy proposals and legislation to regulate the development, deployment and commercialisation of AI products. Legislation might be passed that imposes requirements to AI products in their development stage that clash with the industrial or large scale adoption of an AI alignment researcher to supervise the model.
+
+The aim of this project is to bring up some questions and considerations regarding Automating the solution for the alignment problem from a Governance perspective and force.
+
+The Governace literature used are the current AI regulatory trends, existing legislative projects and legislation from the US, China and EU. While the approach for Automated Alignment used is OpenAI’s SuperAlignment plan.
+
+* Could AI Governance safety proposals interfere in with the implementation of an AI alignment researcher? 
+* Does this approach clash with current AI governance principles such as human oversight?
+
+The desired output of the project is a lesswrong or EA post raising and anticipating questions and considerations for automated alignment researchers and policy makers.
