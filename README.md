@@ -75,7 +75,7 @@ We investigate the literature with the following in mind:
 
 ## Automated Alignment considerations from a Governance perspective
 Researched by Marcel Mir
-* 
+
 #### Summary
 Could current trends in AI policies impact the automated alignment approach? 
 
