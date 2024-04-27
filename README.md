@@ -96,7 +96,7 @@ The Governace literature used are the current AI regulatory trends, existing leg
 
 The desired output of the project is a lesswrong or EA post raising and anticipating questions and considerations for automated alignment researchers and policymakers.
 
-## The Future of Activation Engineering: Predicting the feasibility of the Linear Representation Hypothesis for automating alignment research as a function of compute
+## A proposed compute-based method for predicting the future feasibility of the Linear Representation Hypothesis for automating alignment research
 Researched by Vassil Tashev
 * [LessWrong post coming soon]()\
 
