@@ -37,9 +37,14 @@ This project aims to get more grounding into how promising automating alignment 
 ## Weak to Strong Generalization
 Researched by Severin Field and Vassil Tashev
 * [A review of weak-to-strong generalization literature](https://www.lesswrong.com/posts/ELbGqXiLbRe6zSkTu/a-review-of-weak-to-strong-generalization-ai-safety-camp)
-* [Paper review: “The Unreasonable Effectiveness of Easy Training Data for Hard Tasks”](https://www.lesswrong.com/posts/Wd9vzwqcYuEokJYCH/paper-review-the-unreasonable-effectiveness-of-easy-training)
+
 #### Summary:
 OpenAI’s super alignment agenda is to create automated safety researchers. At the end of 2023, OpenAI published “weak to strong generalization” which attempted to answer how we can create a setting to study superhuman AI. Reframing the alignment problem this way makes progress tractable creates a setting to empirically study “super alignment” before experiments can be done on a superhuman AI. We review their findings, a number of similar papers, and the implications for automated safety R&D.
+
+* [Paper review: “The Unreasonable Effectiveness of Easy Training Data for Hard Tasks”](https://www.lesswrong.com/posts/Wd9vzwqcYuEokJYCH/paper-review-the-unreasonable-effectiveness-of-easy-training)
+
+#### Summary:
+Scalable oversight seems easier based on experiments outlined in a recent paper; questions arise about the implications of these findings. 
 
 ## In-context Learning
 Researched by Alfie Lamerton
@@ -89,3 +94,12 @@ The Governace literature used are the current AI regulatory trends, existing leg
 * Does this approach clash with current AI governance principles such as human oversight?
 
 The desired output of the project is a lesswrong or EA post raising and anticipating questions and considerations for automated alignment researchers and policymakers.
+
+## The Future of Activation Engineering: Predicting the feasibility of the Linear Representation Hypothesis and Causal World Models for automating alignment research as a function of compute using the Direct Approach framework
+Researched by Vassil Tashev
+* [LessWrong post coming soon]()\
+
+#### Summary
+This research evaluates whether the Linear Representation Hypothesis and Causal World Models will remain viable as large language model capabilities evolve with advances in algorithms and hardware. Utilizing the Direct Approach framework, the study aims to ascertain the robustness of the assumptions in the literature in maintaining their efficacy for activation engineering and  automated alignment. The focus of the project is to determine the effect of compute growth on the current knowledge representation theory and predict its applicability in the future.
+
+An analysis based on the work of Park et al. (2023), Turner et al.(2023), Zou et al.(2023), Nanda et al. (2023), Barnett (2023), Burns et al. (2023), Manning et al. (2024), Rajendran et al. (2024), Richens et al. (2024), Jiang et al. (2024), Ho et a. (2024), Wang et al. (2024) and others.
