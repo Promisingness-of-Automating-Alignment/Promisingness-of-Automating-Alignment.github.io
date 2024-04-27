@@ -41,6 +41,7 @@ Researched by Severin Field and Vassil Tashev
 #### Summary:
 OpenAI’s super alignment agenda is to create automated safety researchers. At the end of 2023, OpenAI published “weak to strong generalization” which attempted to answer how we can create a setting to study superhuman AI. Reframing the alignment problem this way makes progress tractable creates a setting to empirically study “super alignment” before experiments can be done on a superhuman AI. We review their findings, a number of similar papers, and the implications for automated safety R&D.
 
+
 * [Paper review: “The Unreasonable Effectiveness of Easy Training Data for Hard Tasks”](https://www.lesswrong.com/posts/Wd9vzwqcYuEokJYCH/paper-review-the-unreasonable-effectiveness-of-easy-training)
 
 #### Summary:
@@ -100,6 +101,4 @@ Researched by Vassil Tashev
 * [LessWrong post coming soon]()\
 
 #### Summary
-This research evaluates whether the Linear Representation Hypothesis and Causal World Models will remain viable as large language model capabilities evolve with advances in algorithms and hardware. Utilizing the Direct Approach framework, the study aims to ascertain the robustness of the assumptions in the literature in maintaining their efficacy for activation engineering and  automated alignment. The focus of the project is to determine the effect of compute growth on the current knowledge representation theory and predict its applicability in the future.
-
-An analysis based on the work of Park et al. (2023), Turner et al.(2023), Zou et al.(2023), Nanda et al. (2023), Barnett (2023), Burns et al. (2023), Manning et al. (2024), Rajendran et al. (2024), Richens et al. (2024), Jiang et al. (2024), Ho et a. (2024), Wang et al. (2024) and others.
+This research seeks to determine whether the Linear Representation Hypothesis and Causal World Models will remain viable as large language model capabilities evolve with advances in algorithms and hardware. Utilizing the Direct Approach framework, the study aims to ascertain the robustness of the assumptions in the literature in maintaining their efficacy for activation engineering and  automated alignment. The focus of the project is to determine the effect of compute growth on the current knowledge representation theory and predict its applicability in the future. The analysis is based on the work of Park et al. (2023), Turner et al.(2023), Zou et al.(2023), Nanda et al. (2023), Barnett (2023), Burns et al. (2023), Manning et al. (2024), Rajendran et al. (2024), Richens et al. (2024), Jiang et al. (2024), Ho et a. (2024), Wang et al. (2024) and others.
