@@ -52,6 +52,9 @@ Researched by Alfie Lamerton
 * [A review of In-Context Learning Hypotheses for Automated AI](https://www.lesswrong.com/posts/GPcwP8pgyPFPwvi2h/a-review-of-in-context-learning-hypotheses-for-automated-ai)
   
 #### Summary
+In-context learning is an emergent behaviour in pre-trained LLMs where the model seems to perform task inference (learn to do a task) and to perform the inferred task, despite only having been trained on input-output pairs in the form of prompts. The model does this without changing its parameters/weights, contrary to traditional machine learning.
+
+The mechanism behind in-context is an open question in machine learning. There are different hypotheses on what in-context learning is doing, each with different implications for alignment. This document reviews the hypotheses which attempt to explain in-context learning, finding some overlap and good explanatory power from each, and describes the implications these hypotheses have for automated AI alignment research.
 
 ## Sparse Autoencoders (SAEs)
 Researched by Nguyen Nhat Minh
