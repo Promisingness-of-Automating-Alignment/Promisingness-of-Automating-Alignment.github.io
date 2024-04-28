@@ -3,10 +3,10 @@ Public repository for the Promisingness of Automating Alignment project
   
 
   
-## Team Members
+## Team Members 
 ```
 Mentor: Bogdan Ionut Cirstea \
-AI Safety Camp: Jaeson Booker, Leo Mckee-Reid, Marcel Mir, Severin Field, Milton Lin, Sai Joseph, Vassil Tashev, Yuan Yuan Sun; \
+AI Safety Camp: Jaeson Booker, Marcel Mir, Severin Field, Milton Lin, Vassil Tashev, Yuan Yuan Sun; \
 MARS: Alfie Lamerton, Tim Chan, Robayet Hossain; \
 SPAR: Joyee Chen, Joe Emerson, Minh Nguyen, Yixiong Hao.
 ```
