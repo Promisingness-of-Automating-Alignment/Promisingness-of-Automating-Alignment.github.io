@@ -109,4 +109,5 @@ This research seeks to determine whether the Linear Representation Hypothesis an
 ## Scaling Laws for Automating Alignment Research, especially on differentially transparent scaffolding
 Researched by Joyee Chen
 (Lesswrong post coming soon)
+
 My research answers, "What does current empirical and theoretical scaling laws tell us about the viability and ultimate form of automated alignment research? Especially, how viable different forms of scaffolding and combining scaffolding are?" Scaffolding, as defined in Davidson et al. (2023)'s survey of post training enhancements, is the art of wrapping AI models in certain data structures to control their reasoning and information flows, so as to mimic an agent or computer, and Davidson et al's framework will feature greatly along with a broad exploration of possible scaffolding schemes.
