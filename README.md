@@ -69,7 +69,7 @@ While SAE researchers have made rapid, iterative progress in discovering new met
 
 ## Theoretical Chain of Thought
 Researched by Severin Field
-* [lesswrong post coming soon]()\
+* https://www.lesswrong.com/posts/WtsmwfzedJfSccynt/a-whirlwind-tour-of-chain-of-thought-literature-relevant-to
 
 #### Summary 
 “One of the main limitations is that the architecture does not allow for an ‘inner monologue’ or scratchpad beyond it’s internal representation, that could enable it to perform multi-step computations or store intermediate results” - Sebastian Bubeck, 2023
